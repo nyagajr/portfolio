@@ -3,12 +3,16 @@ body{
 }
 h3{
   color: #15DCB5;
-  text-align:justify;
+  text-align:center;
   line-height: 0px;
 }
 img {
     float: left;
-    border-radius: 10%;
+    border-radius: 50%;
     padding: 5px;
     width: 320px;
+}
+p{
+  text-align: center;
+
 }
