@@ -1,7 +1,7 @@
 body{
   background-color: #7B6666
 }
-h3{
+h2{
   color: #15DCB5;
   text-align:center;
   line-height: 0px;
@@ -10,9 +10,11 @@ img {
     float: left;
     border-radius: 50%;
     padding: 5px;
-    width: 320px;
+    width: 220px;
 }
 p{
   text-align: center;
-
+}
+ul{
+  text-align: center;
 }
