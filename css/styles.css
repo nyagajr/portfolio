@@ -1,6 +1,12 @@
 body{
   background-color: #7B6666
 }
+h1{
+  color: #15DCB5;
+  text-align:center;
+  line-height: 0px;
+
+}
 h2{
   color: #15DCB5;
   text-align:center;
@@ -16,5 +22,8 @@ p{
   text-align: center;
 }
 ul{
+  text-align: center;
+}
+a{
   text-align: center;
 }
